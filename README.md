@@ -6,7 +6,9 @@
 Combining packages to create a language guesser.
 
 ## Packages
-Franc
+Franc https://github.com/wooorm/franc
+Colors
+Langs
 
 ## Example 
 ```js
