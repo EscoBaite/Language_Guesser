@@ -13,7 +13,15 @@ Combining packages to create a language detector.
 - The franc package detects the language and returns an three letter code for the language.
 - Langs then matches the three letter code with a language name from its library.
 - colors package give the output color.
-## Example 
+
+## Use
+---
+- Clone the Repo
+- Install neccecary dependencies `npm install`
+- run `node index.js '(input your sample text here)'` 
+
+## Example
+---
 ```js
     Language_Guesser> node index.js 'das sind zo heiss'
     'Best guess this is German'
